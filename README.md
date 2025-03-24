@@ -8,4 +8,4 @@ A server to the Steam 2003 client written in Python.
 - Offline mode: Create a Steam account on your server to use the client offline! (It is best recommended to use your existing Steam account for all of the features.)
 
 # Help/Support
-I'd love to know what you think about this project! Maybe you'd like to help me with it? Hmu at the unofficial Valve Discord server, at https://discord.gg/
+I'd love to know what you think about this project! Maybe you'd like to help me with it? Hmu at the unofficial Valve Discord server, at https://discord.gg/NE6j8WYVwP
