@@ -2,7 +2,7 @@
 A server to the Steam 2003 client written in Python.
 
 > [!NOTE]
-> This repository is being made to have Steam's client from 2003 fit in with modern times, if you wish to use other Steam versions, check out <p><a href="https://github.com/real-pmein1/stmsvremu" />The StmSvrEmu repository instead!</p>
+> This repository is being made to have Steam's client from 2003 fit in with modern times, if you wish to use other Steam versions, check out <p><a href="https://github.com/real-pmein1/stmsrvemu" />The StmSrvEmu repository instead!</p>
 
 # Features (Planned)
 - Steam account compatibility: You can log into your Steam account to chat with your friends!
